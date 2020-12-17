@@ -1,0 +1,7 @@
+baseURL = "https://lookgoodkillgood.com/"
+languageCode = "en-us"
+title = "Look Good Kill Good"
+theme = "ananke"
+
+[params]
+  featured_image = "images/lgkg_wallpaper.jpg"
