@@ -15,7 +15,7 @@ The guild was created to address problems often experienced in ESO guilds and th
 - Distant guild leaders and officers.
 - Getting "lost" in larger guilds.
 - Toxic people and culture.
-- Gold hungry guilds constantly trying make their bids with the same ol' 50/50 raffle bull crap. These typically get a few people rich and everyone else is a cog in the machine.
+- Gold hungry guilds constantly trying to make their bids with the same ol' 50/50 raffle bull crap. These typically get a few people rich and everyone else is a cog in the machine.
 - Elitism and inner circles where it's obvious there are a coveted few "more liked" often louder individuals.
 - Guilds of over 100 people but still can't find a group.
 
@@ -30,4 +30,4 @@ We address the above by constantly focusing on what members in the guild are try
 - Grit (don't easily give up on hard content)
 - Able to take a joke or two
 
-Join us on [Discord](https://discord.gg/EKUyK9Z9SK) or checkout our [website](https://lookgoodkillgood.com) for more information.
+Join us on [Discord](https://discord.gg/EKUyK9Z9SK).
