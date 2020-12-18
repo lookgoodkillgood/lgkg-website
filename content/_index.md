@@ -19,7 +19,7 @@ The guild was created to address problems often experienced in ESO guilds and th
 - Elitism and inner circles where it's obvious there are a coveted few "more liked" often louder individuals.
 - Guilds of over 100 people but still can't find a group.
 
-We address the above by constantly focusing on what members in the guild are trying to accomplish and keeping the core membership small (quality over quantity). The hardest part of finding the right guild is becoming an established member. This is one of our strengths. Simply jump into voice chat or text chat and ask if anyone wants to join you. The expectation is that everyone should be comfortable responding to `lfg` requests.** Ultimately, You should get back from the guild what you decide to put into it, not the other way around.**
+We address the above by constantly focusing on what members in the guild are trying to accomplish and keeping the core membership small (quality over quantity). The hardest part of finding the right guild is becoming an established member. This is one of our strengths. Simply jump into voice chat or text chat and ask if anyone wants to join you. The expectation is that everyone should be comfortable responding to `lfg` requests.**Ultimately, You should get back from the guild what you decide to put into it, not the other way around.**
 
 ## Requirements
 
