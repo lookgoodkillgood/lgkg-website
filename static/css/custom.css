@@ -1,0 +1,18 @@
+body {
+    text-align: left;
+}
+
+p {
+    text-align: left;
+}
+
+blockquote {
+    text-align: left;
+    font-weight: 400;
+    font-style: italic;
+}
+
+ul, ol {
+    text-align: left;
+}
+

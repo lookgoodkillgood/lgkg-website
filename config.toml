@@ -1,7 +1,24 @@
 baseURL = "https://lookgoodkillgood.com/"
 languageCode = "en-us"
-title = "Look Good Kill Good"
+title = "LGKG PS4 NA"
 theme = "ananke"
+
+sectionPagesMenu = "main"
 
 [params]
   featured_image = "images/lgkg_wallpaper.jpg"
+  custom_css = ["css/custom.css"]
+  favicon = ""
+  site_logo = ""
+  description = "We make looking this good look easy"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
