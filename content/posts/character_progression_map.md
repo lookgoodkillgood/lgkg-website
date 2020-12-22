@@ -1,7 +1,7 @@
 ---
 title: "Character Progression Map"
 date: 2020-12-19T21:47:32-06:00
-draft: true
+draft: false
 authors: ["Mr. Miagee"]
 toc: true
 featured_image: "images/tamriel_map.jpg"
