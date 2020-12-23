@@ -15,7 +15,7 @@ The following is a **map** of what you'd expect to focus on as you progress to C
 
 ## The Map
 
-The descriptions in each level are meant to be short to keep the post from getting too lengthy. If you have any questions or need clarity, feel free to ask in guild chat.
+The descriptions in each level are meant to be short to keep the post from getting too lengthy. If you have any questions or need clarity, feel free to ask in guild chat. The DPS numbers included are based on the 3 mil dummy.
 
 ### Level 0
 
@@ -43,23 +43,28 @@ Do zone quests, side quests, dungeons, learn your class, and have fun. Start to 
 
 You've unlocked undaunted pledges! These are 3 daily quests that involve completing a specific dungeon. An invite will arrive in your mailbox that starts this quest. Travel to your capital city to complete the quest and get introduced to the undaunted quest givers. You'll want to try and complete these daily so you can collect undaunted keys. [Undaunted keys](https://en.uesp.net/wiki/Online:Undaunted_Keys) are rewarded for completing the daily and used as a type of currency to "roll" for your 2 piece monster set. The two-piece monster set becomes more critical when you hit CP160. **Save all your undaunted keys for when you are CP160!**.
 
+> Faction and capital cities:
+> * Aldmeri Dominion: Grahtwoot
+> * Ebonhart Pact: Mournhold
+> * Daggerfall Covenant: Wayrest
+
 ### CP1 - CP160
 
-You become [enlightened](https://forums.elderscrollsonline.com/en/discussion/158785/enlightenment-how-it-works)! What this means is you'll level a whole lot quicker. Enlightenment is bonus XP for your Champion Point (CP) progression. This will feel a lot like when you first started and leveled super quickly. You should have enough enlightenment to carry you very close to CP160. You are almost there!
+You become [enlightened](https://forums.elderscrollsonline.com/en/discussion/158785/enlightenment-how-it-works)! What this means is you'll level a whole lot quicker. Enlightenment is bonus XP for your Champion Point (CP) progression. This will feel a lot like when you first started and were leveling super quickly. You should have enough enlightenment to carry you very close to CP160. You are almost there!
 
 ### CP160 - CP200
 
-Congratulations, you've hit the gear level cap! This is the highest level gear that you will find in the game. Enjoy the moment and feel the glory. However, you are not done progressing, young adventurer. This is when the fun really begins. The new star to shoot for is CP810 but don't worry so much about grinding levels. The priority now is figuring out what gear you need for your class and how to play that class. You can also get crafted CP160 gear, which is expensive to make. Use the #crafting-requests channel to get set-up.
+Congratulations, you've hit the gear level cap! This is the highest level gear that you will find in the game. Enjoy the moment and feel the glory. However, you are not done progressing, young adventurer. This is when the fun really begins. The new star to shoot for is CP810 but don't worry so much about grinding levels. The priority now is figuring out what gear you need and how to play your class. You can also get crafted CP160 gear, which is expensive to make. Use the #crafting-requests channel to get set-up.
 
-Get monster helm
-Use undaunted keys to get shoulder piece
-Farm dungeon gear
-Do Dragon Star Arena
-Trait out your gear and get it to epic (purple).
+* Get monster helm
+* Use undaunted keys to get shoulder piece
+* Farm dungeon gear
+* Complete Dragon Star Arena
+* Trait out your gear and improve it to epic (purple).
 
 ### CP200 - CP300
 
-You are ready for no-DLC veteran dungeons and normal trials. If you are a DPS, you'll want to be around 15k DPS. Use the 3 mil parse dummy in the guildhall to practice your rotation.
+You are ready for non-DLC veteran dungeons and normal trials. If you are a DPS, you'll want to be around 15k DPS. Use the 3 mil parse dummy in the guildhall to practice your rotation.
 
 * Run normal Maelstrom Arena (nma)
 * Run normal Craglorn trials.
@@ -72,19 +77,31 @@ DLC veteran dungeons are now available. Focus on getting BiS gear for your build
 
 ### CP450 - CP550
 
-You should be doing pretty good in non-DLC veteran dungeons and starting in on some of the more challenging DLC veteran dungeons. You'll want to focus on improving your main set of gear to legendary.  If you're a DPS, you'll want to be hitting around 25k+ DPS.
+You should be doing pretty good in non-DLC veteran dungeons and starting in on some of the easier DLC veteran dungeons. You'll want to focus on improving your main set of gear to legendary.  If you're a DPS, you'll want to be hitting around 25k+ DPS.
 
 ### CP550 - CP720
 
-At CP550, you should be ready for the easier veteran trials.
+At CP550, you should be ready for the easier veteran trials. If you're a DPS, you'll want to aim at hitting around 30k+ DPS.
 
 ### CP720+
 
-You're ready for the harder veteran trials. If you're a DPS, you'll want to be hitting around 35k+ DPS.
+You're ready for the harder veteran trials. If you're a DPS, you'll want aim at hitting around 35k+ DPS.
 
 ## After thoughts
 
-Please remember that all of this is a map. You may feel inclined to follow it to the letter but that is not the purpose. There are multiple ways to play the game. For example, at the time of this writing, I'm over CP700 I haven't done any veteran trials. Instead of focusing on veteran trials I decided to create this guild. I know there is not a ton of information of healers and tanking which I hope to supplement in the future. I hope this helps you navigate the leveling aspects of ESO and any feedback or suggestions are appreciated.
+If you're a support role there isn't a lot of guidance on where you should be. That's because it's tough to determine. Tanks and healers can typically get into harder content at lower levels if they know how to play their character. My suggestion is you follow the same kind of trajectory and feel out if you can handle harder content.
 
+This map isn't intended to be doctrine. Feel free to play the game how you want -- that's the beauty of ESO. For example, at the time of this writing, I'm over CP700 and I haven't completed a single veteran trial. Instead of focusing on veteran trials I decided to create this guild. I hope this helps you navigate the leveling aspects of ESO and any feedback or suggestions are appreciated.
+
+Wish you all the best!
 
 Mr. Miagee
+
+## Update log
+
+### 12/23/20
+
+* Fixed bullets under CP160 header.
+* Changed wording on a few things.
+* Made the After thoughts section clearer.
+* Added capital cities for level 45 undaunted dailies
