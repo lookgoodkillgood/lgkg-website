@@ -11,11 +11,9 @@ This is our new weekly raffle. It’s a bit different than the typical 50/50 raf
 
 Instead of depositing gold in the guild bank to get raffle tickets they are earned by grouping up with guild mates and killing together.
 
-Every day you can earn 1 raffle ticket per undaunted dungeon, random dungeon or battlegrounds (BG) that you do with a  member of the guild for a maximum of 5 tickets.
+Every day you can earn 1 raffle ticket per dungeon or battlegrounds (BG) that you do with a member of the guild for a maximum of 3 tickets.
 
-
-> 3 undaunted quests + 1 random dungeon + 1 random battlegrounds = 5 tickets
-
+> 1 undaunted quest + 1 random dungeon + 1 random battlegrounds = 3 tickets
 
 When you complete an event submit the dungeons or battlegrounds you completed to the `#battle-log` on discord.
 
@@ -27,7 +25,7 @@ This would earn both people 2 tickets for that day. If you want to post several 
 
 ## Eligibility
 
-Everyone is eligible in the guild except for the guild leaders Miagee and DeepDragon8. However, you can still group up with them to earn tickets.
+Everyone is eligible in the guild except for the guild leaders Miagee and DeepDragon8. However, you can still group up with them to earn tickets. Discord access is required by one of the members of the group to post.
 
 ## Drawing
 
@@ -40,5 +38,3 @@ The rewards will cycle between gold and non-gold rewards like mats, armor, weapo
 ### Week of December 23 reward
 
 * **25,000 gold**
-
-
