@@ -15,6 +15,8 @@ Every day you can earn 1 raffle ticket per dungeon or battlegrounds (BG) that yo
 
 > 1 undaunted quest + 1 random dungeon + 1 random battlegrounds = 3 tickets
 
+> 2 random dungeons + 1 battlegrounds = 3 tickets
+
 When you complete an event submit the dungeons or battlegrounds you completed to the `#battle-log` on discord.
 
 **Example:**
