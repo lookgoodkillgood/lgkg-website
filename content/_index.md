@@ -30,4 +30,4 @@ We address the above by constantly focusing on what members in the guild are try
 - Grit (don't easily give up on hard content)
 - Able to take a joke or two
 
-Join us on [Discord](https://discord.gg/EKUyK9Z9SK).
+Join us on [Discord](https://discord.gg/SZbHYNKDKF).
