@@ -2,7 +2,7 @@
 title: "Events"
 date: 2020-12-29T20:36:54-06:00
 featured_image: "/images/events.jpg"
-draft: true
+draft: false
 ---
 
 ## Recurring events
