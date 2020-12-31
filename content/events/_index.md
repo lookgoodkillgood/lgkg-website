@@ -9,13 +9,13 @@ draft: false
 
 - Every Wednesday -- [Look Good and Kill Together Raffle]({{< relref "/posts/look_good_and_kill_together.md">}})
 
+## Saturday January 1, 2020
+### 8:30PM - 10:00PM CST
+
+- Skyshard hunt in Shadowfen
+
 ## Wednesday December 30, 2020
-### 8:30PM - 9:30PM CST
+### 8:30PM - 10:00PM CST
 
 - Raffle winner announcement
 - Dailies in Gold Coast and the Reach
-
-## Saturday January 1, 2020
-### 8:30PM - 9:30PM CST
-
-- Skyshard hunt in Shadowfen
