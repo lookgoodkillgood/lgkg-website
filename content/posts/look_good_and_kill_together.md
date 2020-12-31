@@ -43,6 +43,8 @@ The rewards will cycle between gold and non-gold rewards like mats, armor, weapo
 * 1 Rosin
 * 1 Tempering alloy
 * 1 Dreugh wax
+* 1 Kuta
+* 1 Chromium grain
 
 ### Week of December 23 reward
 
