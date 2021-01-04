@@ -31,7 +31,7 @@ Everyone is eligible in the guild except for the guild leaders Miagee and DeepDr
 
 ## Drawing
 
-Every week on Wednesday, Mr. Miagee will post on Discord at 8:30PM when the drawing will begin. . The winner will be announced in the message of the day and items mailed promptly afterwards.
+Every week on Wednesday, Mr. Miagee will post on Discord at 8:30PM when the drawing will begin. The winner will be announced in the message of the day and items mailed promptly afterwards.
 
 ## Rewards
 
