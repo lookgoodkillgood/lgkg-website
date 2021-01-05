@@ -14,7 +14,7 @@ This bar swap mechanic for me quickly became a pain as I tried to improve my DPS
 
 To remedy this issue, I started looking into the in-game options to see if I could re-map my controller buttons. Unfortunately, on the console version of the game, this functionality doesn't exist. The inability to customize controls has been a common gripe of mine since converting to console gaming from PC many years ago. To find the solution, I would have to either re-wire my controller or hope it existed on the PS4 software.
 
-Thanks to Google and piecing information from several sites, I found a solution using the native **Accessibility** features on the PS4. You can re-map any of controller the buttons from the **Settings** menu.
+Thanks to Google and piecing information from several sites, I found a solution using the native **Accessibility** features on the PS4. You can re-map any of the controller buttons from the **Settings** menu.
 
 My choice was to switch the left directional button with the R3 button. This was a game changer. I no longer needed to lift my finger to swap my bars. Essentially, I was swapping the sneak button with the bar swap button. While this was my decision you can choose any combination of buttons to your liking.
 
