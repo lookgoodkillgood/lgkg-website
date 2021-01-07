@@ -49,6 +49,7 @@ The rewards will cycle between gold and non-gold rewards like mats, armor, weapo
 * 1 Dreugh wax
 * 1 Kuta
 * 1 Chromium grain
+* Winner: Brolo!
 
 ### Week of December 23 reward
 
