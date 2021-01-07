@@ -37,6 +37,10 @@ Every week on Wednesday, Mr. Miagee will post on Discord at 8:30PM when the draw
 
 The rewards will cycle between gold and non-gold rewards like mats, armor, weapons, furnishings, and style pages. If you’d like to donate items for any future rewards send them to Miagee with “Raffle Reward Donation” as the subject.
 
+### Week of January 13 reward
+
+* 4 Crown Crates
+
 ### Week of January 6 reward
 
 * 1 Crown crate
