@@ -1,5 +1,5 @@
 ---
-title: "Character Progression Map"
+title: "Character Progression in ESO"
 date: 2020-12-19T21:47:32-06:00
 draft: false
 authors: ["Mr. Miagee"]

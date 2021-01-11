@@ -7,22 +7,12 @@ draft: false
 
 ## Recurring events
 
-- Every Wednesday -- [Look Good and Kill Together Raffle]({{< relref "/posts/look_good_and_kill_together.md">}})
+> **All events are 1 to 1.5 hours. We group at 8:30PM CT and start at 9:00PM CT**
 
-## Wednesday January 6, 2020
-### 8:30PM - 10:00PM CST
+- **Motif Monday** -- Conduct zone area dailies for rewards and style pages.
 
-- [Raffle winner announcement]({{< relref "/posts/look_good_and_kill_together.md">}})
-- Ebon Wolf mount lead farming
+- **Whatever Wednesday** -- [Look Good and Kill Together Raffle]({{< relref "/posts/look_good_and_kill_together.md">}}) announcement followed by an event members want to run. Farm leads, world bosses, etc.
 
+- **"Vet Sweat" Saturday** -- Create a group and tackle a tough veteran dungeon.
 
-## Saturday January 1, 2020
-### 8:30PM - 10:00PM CST
-
-- Skyshard hunt in Shadowfen
-
-## Wednesday December 30, 2020
-### 8:30PM - 10:00PM CST
-
-- [Raffle winner announcement](({{< relref "/posts/look_good_and_kill_together.md">}}))
-- Dailies in Gold Coast and the Reach
+- **Skyshard Sunday** -- Group up and hunt down all the skyshards for a zone.
