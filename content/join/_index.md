@@ -10,25 +10,32 @@ LGKG is a **member-centric** guild dedicated to improving the ESO game experienc
 
 ## Culture
 
-> Ultimately, You should get back from the guild what you decide to put into it, not the other way around.
-
 The guild was created to address problems often experienced in ESO guilds and the game in general.
 
-- Distant guild leaders and officers.
-- Getting "lost" in larger guilds.
-- Toxic players.
-- Elitism and inner circles.
+- Distant guild leaders and officers
+- ⏳ Long queue times
+- Finding people who want to run similar content
+- 🥳 Making friends
+- Getting "lost" in larger guilds
+- 👿 Toxic players
+- Elitism and inner circles
 
-We address the above by constantly focusing on what members in the guild are trying to accomplish and keeping the core membership small (quality over quantity). The hardest part of finding the right guild is becoming an established member. This is one of our strengths. Simply jump into voice chat or text chat and ask if anyone wants to join you. The expectation is that everyone should be comfortable responding to `lfg` requests. **Ultimately, You should get back from the guild what you decide to put into it, not the other way around.**
+We address the above by constantly focusing on what members in the guild are trying to accomplish and keeping  membership small (💎 quality over quantity). The guild leaders are expected to group with everyone. The hardest part of finding the right guild is becoming an established member. This is one of our strengths 💪. Simply jump into voice chat and introduce yourself. Give us a chance, you'll feel right at home in no time 🏠. The expectation is that everyone should be comfortable responding to "looking for group" requests. **Ultimately, You should get back from the guild what you decide to put into it, not the other way around.**
+
+## Events
+
+* **🏆 Challenger Achievement Program** \- Want to pursue end game challenges? We have a program just for that.
+* 📅 **Weekly Events** \- Check out our [public calendar](https://lookgoodkillgood.com/calendar)!
+* 🎟️ **Look Good and Kill Together Raffle** \- Earn tickets by grouping up with people in the guild! We don't ask for gold, we hand it out!
+* 🥇 **Trials** \- Trials by request and gear tracker to ensure everyone gets what they need.
 
 ## Requirements
 
-- +18 years or older
-- Active by joining others in their adventures
-- Able to communicate via text or voice
-- Enjoy talking about builds and collecting motifs
-- Grit (don't easily give up on hard content)
-- Able to take a joke or two
+* \+18 years or older
+* 🤝Active by joining others in their adventures
+* 🎙️Able to communicate via text or voice
+* 🎖️Enjoy talking about builds and collecting motifs
+* 💪 Grit (don't easily give up on hard content)
+* 😎 Laid back, chill, etc. and able to joke around w/o being toxic.
 
-Join us on [Discord](https://discord.gg/SZbHYNKDKF).
-
+Join us on [Discord](https://discord.gg/SZbHYNKDKF)!
