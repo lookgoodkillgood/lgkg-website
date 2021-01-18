@@ -38,4 +38,6 @@ We address the above by constantly focusing on what members in the guild are try
 * 💪 Grit (don't easily give up on hard content)
 * 😎 Laid back, chill, etc. and able to joke around w/o being toxic.
 
-Join us on [Discord](https://discord.gg/SZbHYNKDKF)!
+**Press the button 👇 to join**
+
+[![discord](/images/join_us_discord.png)](https://discord.gg/FyQ4qVna3b)

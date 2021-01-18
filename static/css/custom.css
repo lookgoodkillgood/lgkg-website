@@ -16,3 +16,10 @@ ul, ol {
     text-align: left;
 }
 
+img[alt=discord] {
+    width: 250px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
