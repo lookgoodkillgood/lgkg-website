@@ -5,6 +5,7 @@ draft: false
 featured_image: "images/eso_guild_awesome.jpg"
 
 ---
+> A guild is a community you should be able to trust and rely on.
 
 Guilds are an essential part of the ESO experience. During our first month on ESO, my wife and I ran around as a duo and ignored guilds. After a month, it was clear we needed some help. We couldn't tackle every world boss together, we were introduced to the bright and beautiful people in PUG groups 🙃, and the sheer amount of things to do was overwhelming. I had no clue what the heck I was doing with my Khajiit Dragonknight! I was all over the place.
 
@@ -17,31 +18,43 @@ My wife says, "A guild is a community you should be able to trust and rely on." 
 We'd like to help by suggesting 5 ways to take full advantage of what the guild has to offer.
 
 ## 🤝 Group up with guildmates
-When you help other people accomplish their goals, not only do they appreciate the help, they'll be there for you when you need it. This isn't always guaranteed, but it's much better to build a good rapport with your guildmates than it is never responding to someone asking for help. You don't always have to stop what you're doing but occasionally take the opportunity to help someone.
 
-The same goes for asking for help. We often don't want to bother others, so we hit the _Activity Finder_ button and PUG a random dungeon. Then, we proceed to pull out our hair with fake tanks, healers, or DPS. There's always encountering those beautifully toxic people mentioned earlier (smh). Trust me when I say this, other people will much rather take the opportunity to join someone from the guild than roll the dice 🎲🎲 with a PUG group.
+> Trust me when I say this, guildmates would much rather join someone from the guild than roll the dice 🎲🎲 with a PUG group.
+
+When you help other people accomplish their goals, not only do they appreciate the help, they'll be there for you when you need it. This isn't always guaranteed, but it's much better to build a good rapport with your guildmates than it is never responding to someone asking for help. It's OK to occasionally take the opportunity to help someone.
+
+The same goes for asking for help. We often don't want to bother others, so we hit the _Activity Finder_ button and PUG a random dungeon. Then, we proceed to pull out our hair with fake tanks, healers, or DPS. There's always encountering those [beautifully toxic](https://www.reddit.com/r/elderscrollsonline/comments/cs0bet/toxic_people_in_dungeons/) people mentioned earlier (smh). Trust me when I say this, guildmates would much rather join someone from the guild than roll the dice 🎲🎲 with a PUG group.
 
 ## 🙋 Ask and answer questions.
-Anyone at any level can help answer questions. In our guild, we have a saying, "the only stupid question is the question not asked." You can ask questions in Discord, text chat, or in-game voicechat. While veterans know the answer to many things, I've often learned a ton from players in their first week or month of playing.
 
-For example, one time, a new player went and parsed through all the patch notes to ask questions. This led to a lot of conversation, and I learned a ton. When someone asks you a question you also get to reinforce your own knowledge.Everyone has insightful information to offer, so ask questions to get conversations going. It can often be a lot faster and more reliable than Google!
+> The only stupid question is the one you don't ask.
+>
+Anyone at any level can help answer questions. In our guild, we have a saying, "the only stupid question is the one you don't ask." You can ask questions in Discord, text chat, or in-game voicechat. While veterans know the answer to many things, I've often learned a ton from players in their first week or month of playing.
+
+For example, one time, a new player went and parsed through all the patch notes to ask questions. This led to a lot of conversation, and I learned a ton. When someone asks you a question you also get to reinforce your own knowledge. Everyone has insightful information to offer, so ask questions to get conversations going. It can be a lot more reliable than Google! How? That's because the game changes with each new release so lots of game information searched on Google is out of date.
 
 ## 🎤 Use Members 1 voicechat and Join Discord.
+
+> We're a mellow group, so there might not be noisy non-stop banter, and we like it that way.
+
 The guild tries to maintain a presence in Members 1 voicechat during active hours. The process of grouping up, answering questions, and building friendships are accelerated by using voice chat. You may tend to see the same people grouping up together and think or feel like you are being excluded or not part of the "inner circle." This isn't the case; it's typically that these people use the same methods to find a group. If you introduce yourself into the mix, you'll have equal success in finding a group.
 
 > To join Members 1 voice chat, press the options button --> Social, Voice Chat --> Look Good Kill Good --> Members 1
 
-We're a mellow group, so there might not be non-stop banter, and we like it that way. This gives everyone a chance to speak. We try to be mindful of not dominating the conversation.
+We're a mellow group, so there might not be noisy non-stop banter, and we like it that way. This gives everyone a chance to speak. We try to be mindful of not dominating the conversation.
 
 Why Discord? I asked the same question when I started. It doesn't feel natural to jump between a game and another app. However, after some use, you'll see the benefits. ESO doesn't provide in-game guild management, so we've had to lean on Discord for organizing events and trials. Additionally, it provides a way to chat with guildmates offline on various topics and interests. It's like a private social media for the guild.
 
-To join Discord, you'll need to either sign in via the web on a computer or install the application on your phone or tablet. Check out our [join](/join) page for our Discord link.
+To join Discord, you'll need to either sign in via the web on a computer or install the application on your phone or tablet. Check out our [join](/join) page for more information.
 
 ## ⛳ Participate in events.
-The guild hosts scheduled events throughout the week. You can view all of the events on our [public calendar](/calendar). These are great times to come out and chill with the guild. We like to hunt skyshards, farm motifs, slay world bosses, hunt antiquity leads, kill dragons, and much more. These are meant to be casual and provide a way for the guild to get together and have fun. They last between 1.5 hours to 2 hours, with some of the time spent grouping up. It's not a huge time commitment and definitely a great way to bond with the guild.
+The guild hosts scheduled events throughout the week. You can view all of the events on our [public calendar](/calendar). These are great times to come out and chill with the guild. We like to hunt skyshards, farm motifs, slay world bosses, hunt antiquity leads, kill dragons, and much more. These are meant to be casual and provide a way for the guild to get together and have fun. We also give away prizes! They last between 1.5 hours to 2 hours, with some of the time spent grouping up. It's not a huge time commitment and definitely a great way to bond with the guild.
 
 ## 💪 Don't quit; keep trying.
-Don't get discouraged if you don't get in a group when you're looking for one. Was voice chat is empty? Or, you can't make an event? Try later or the next day until you manage to get in a group or chat with us. I've seen people join the Discord, make a looking for group request and not find one, then rage quit. It's hard to anticipate when someone will be available, or everyone could simply be busy. When it comes to becoming established in a guild, it takes some effort on both parties. You can even DM me personally and say, "Let's do something!" I've done as much as I can to set up the guild so people can get established quickly, but it's a two-lane road. An effort has to be taken on both sides to make things happen. Ask yourself, "Have I done my best to try and meet with the guild?"
+
+> I've done as much as I can to set up the guild so people can get established quickly, but it's a two-way street. An effort has to be taken on both sides to make things happen.
+
+Don't get discouraged if you don't get in a group when you're looking for one. Was voice chat empty? You couldn't make an event? Try later or the next day until you manage to get in a group or chat with us. I've seen people join the Discord, make a looking for group request and not find one, then rage quit. It's hard to anticipate when someone will be available, or everyone could simply be busy. When it comes to becoming established in a guild, it takes some effort on both parties. You can even DM me personally and say, "Let's do something!" I've done as much as I can to set up the guild so people can get established quickly, but it's a two-way street. An effort has to be taken on both sides to make things happen. Ask yourself, "Have I done my best to try and meet with the guild?"
 
 ## In summary
 
