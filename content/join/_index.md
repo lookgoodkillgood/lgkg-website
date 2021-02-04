@@ -12,13 +12,11 @@ LGKG is a **member-centric** guild dedicated to improving the ESO game experienc
 
 The guild was created to address problems often experienced in ESO guilds and the game in general.
 
-- Distant guild leaders and officers
 - ⏳ Long queue times
 - Finding people who want to run similar content
 - 🥳 Making friends
 - Getting "lost" in larger guilds
 - 👿 Toxic players
-- Elitism and inner circles
 
 We address the above by constantly focusing on what members in the guild are trying to accomplish and keeping  membership small (💎 quality over quantity). The guild leaders are expected to group with everyone. The hardest part of finding the right guild is becoming an established member. This is one of our strengths 💪. Simply jump into voice chat and introduce yourself. Give us a chance, you'll feel right at home in no time 🏠. The expectation is that everyone should be comfortable responding to "looking for group" requests. **Ultimately, You should get back from the guild what you decide to put into it, not the other way around.**
 
@@ -26,8 +24,8 @@ We address the above by constantly focusing on what members in the guild are try
 
 * **🏆 Challenger Achievement Program** \- Want to pursue end game challenges? We have a program just for that.
 * 📅 **Weekly Events** \- Check out our [public calendar](https://lookgoodkillgood.com/calendar)!
-* 🎟️ **Look Good and Kill Together Raffle** \- Earn tickets by grouping up with people in the guild! We don't ask for gold, we hand it out!
 * 🥇 **Trials** \- Trials by request and gear tracker to ensure everyone gets what they need.
+* ⚔️ **PVP** \- Oh yea, we definitely run PVP for Ebonhart Pact. We're in Cyrodiil or Imperial City nightly. Join our zergling! Willing to run on other alliances if we have enough people.
 
 ## Requirements
 
