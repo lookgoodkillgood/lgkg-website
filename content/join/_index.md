@@ -39,3 +39,4 @@ We address the above by constantly focusing on what members in the guild are try
 **Press the button 👇 to join**
 
 [![discord](/images/join_us_discord.png)](https://discord.gg/FyQ4qVna3b)
+[https://discord.gg/invite/FyQ4qVna3b](https://discord.gg/invite/FyQ4qVna3b)
