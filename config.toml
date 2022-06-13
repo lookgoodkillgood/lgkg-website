@@ -1,21 +1,21 @@
 baseURL = "https://lookgoodkillgood.com/"
 languageCode = "en-us"
-title = "LGKG PS4 NA"
+title = "LGK.GG"
 theme = "ananke"
 
 sectionPagesMenu = "main"
 
 [params]
-  featured_image = "images/lgkg_wallpaper.jpg"
+  featured_image = "images/fortnite_wallpaper.jpeg"
   custom_css = ["css/custom.css"]
   favicon = ""
   site_logo = ""
-  description = "We make looking this good look easy"
+  description = "Looking this good isn't as easy as it looks."
   facebook = ""
-  twitter = ""
+  twitter = "https://twitter.com/lgkg_gaming"
   instagram = ""
-  youtube = ""
-  github = ""
+  youtube = "https://www.youtube.com/channel/UCWH7iHzgDFMZIklMo7NhCSg"
+  github = "https://github.com/lookgoodkillgood"
   gitlab = ""
   linkedin = ""
   mastodon = ""

@@ -2,7 +2,7 @@
 title: "Look Good and Kill Together Raffle"
 date: 2020-12-23T20:11:45-06:00
 featured_image: "images/races_eso.jpg"
-draft: false
+draft: true
 ---
 
 This is our new weekly raffle. It’s a bit different than the typical 50/50 raffle you see in most guilds. You don’t earn raffle tickets by donating gold to the guild bank.

@@ -1,7 +1,7 @@
 ---
 title: "Bar Swap Like a Pro"
 date: 2021-01-02T19:02:54-06:00
-draft: false
+draft: true
 ---
 
 > My choice was to switch the left directional button with the R3 button. This was a game changer.

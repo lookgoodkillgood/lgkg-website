@@ -1,7 +1,7 @@
 ---
 title: "Join"
 date: 2021-01-08T12:01:01-06:00
-draft: false
+draft: true
 ---
 
 ## Mission
