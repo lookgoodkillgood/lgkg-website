@@ -6,7 +6,7 @@ theme = "ananke"
 sectionPagesMenu = "main"
 
 [params]
-  featured_image = "images/fortnite_wallpaper.jpeg"
+  featured_image = "images/fortnite_wallpaper.jpg"
   custom_css = ["css/custom.css"]
   favicon = ""
   site_logo = ""
