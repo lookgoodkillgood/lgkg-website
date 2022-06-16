@@ -1,9 +1,21 @@
 ---
-title: "Look Good Kill Good Gaming"
+title: "Look Good Kill Good Gaming (LGK.GG)"
 ---
 
 ## Mission
 
-LGKG is a **member-centric** guild dedicated to improving the Fortnite game experience for **new and veteran players**. We are a balanced social community that combines the sweaty push for excellence with a casual flair. We aim to be **THE** place you can trust to find a competent squad.
+We aim to be **THE** place you can trust to find a competent squad.
+
+## About
+
+LGKG.GG is a gaming community primarily known for the following:
+
+* dis dude m1yag1  
+* Cool people from around the world
+* family minded-ness
+* lots of discussion about strategy, tactics, weapons, etc.
+* having fun
+* sharing and creating game content
+
 
 [![discord](/images/join_us_discord.png)](https://discord.gg/KzhUQrQbCr)
