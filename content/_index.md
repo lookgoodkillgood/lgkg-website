@@ -11,6 +11,7 @@ We aim to be **THE** place you can trust to find a competent squad.
 LGKG.GG is a gaming community primarily known for the following:
 
 * dis dude [m1yag1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* Fortnite and other games
 * Cool people from around the world
 * family minded-ness
 * lots of discussion about strategy, tactics, weapons, etc.
