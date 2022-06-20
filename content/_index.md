@@ -1,5 +1,5 @@
 ---
-title: "Look Good Kill Good Gaming (LGK.GG)"
+title: "Look Good Kill Good Gaming"
 ---
 
 ## Mission
