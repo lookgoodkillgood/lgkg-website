@@ -1,7 +1,7 @@
 ---
 title: "5 Ways to Get the Most Out of the Guild"
 date: 2021-01-27T16:26:03-06:00
-draft: false
+draft: true
 featured_image: "images/eso_guild_awesome.jpg"
 
 ---
